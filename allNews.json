@@ -68,6 +68,38 @@
                 "alt": "Dziewczyna wykonująca tornado-kick."
             }
         ]
+    },
+    {
+        "id": "newyear-2026-01-01",
+        "title": "Treningi w Nowym Roku",
+        "date": "2026-01-01",
+        "headers": [
+            "Kiedy wracamy?",
+            "Jak trenujemy w Nowym Roku?",
+            "Czy mogę dołączyć?",
+        ],
+        "content": [
+            "Do treningów wracamy już 8 stycznia we czwartek o godzinie 18:30!",
+            "Treningi będą odbywać się w Szkole Podstawowej Juchnowcu Górnym na małej sali gimnastycznej! Od godziny 18:30 do 19:15 w każdy wtorek i czwartek!",
+            "Pewnie! Zapraszamy nowe osoby do spróbowania karate goju-ryu. Zapewniamy wspaniałą atmosferę, naukę praktycznego karate oraz poprawę sprawności fizycznej!"
+
+        ],
+        "tags": [
+            "Karate Juchnowiec",
+            "Karate Białystok",
+            "Goju-ryu Białystok",
+            "Samoobrona Juchnowiec",
+            "Karate tradycyjne Białystok",
+            "Karate dla dorosłych",
+            "Karate dla dzieci"
+        ],
+        "images": [
+            { 
+                "position": "header", 
+                "url": "/images/logo_karate.webp",
+                "alt": "Logo Białostockiego Klubu Karate Goju-ryu - Dojo Hasu."
+            }
+        ]
     }
   ]
 }
